@@ -177,7 +177,7 @@ export default {
 export default {
   data() {
     return {
-      msg: 'Highlighted!', // [!code  hl]
+      msg: 'Highlighted!', // [!code hl]
     }
   },
 }
@@ -190,7 +190,7 @@ export default {
 export default {
   data () {
     return {
-      msg: 'Focused!' // [!code  focus]
+      msg: 'Focused!' // [!code focus]
     }
   }
 }
@@ -202,7 +202,7 @@ export default {
 export default {
   data() {
     return {
-      msg: 'Focused!', // [!code  focus]
+      msg: 'Focused!', // [!code focus]
     }
   },
 }
@@ -215,8 +215,8 @@ export default {
 export default {
   data () {
     return {
-      msg: 'Removed' // [!code  --]
-      msg: 'Added' // [!code  ++]
+      msg: 'Removed' // [!code --]
+      msg: 'Added' // [!code ++]
     }
   }
 }
@@ -227,8 +227,8 @@ export default {
 export default {
   data () {
     return {
-      msg: 'Removed' // [!code  --]
-      msg: 'Added' // [!code  ++]
+      msg: 'Removed' // [!code --]
+      msg: 'Added' // [!code ++]
     }
   }
 }
@@ -253,8 +253,21 @@ export default {
 export default {
   data() {
     return {
-      msg: 'Error', // [!code  error]
-      msg: 'Warning', // [!code  warning]
+      msg: 'Error', // [!code error]
+      msg: 'Warning', // [!code warning]
+    }
+  },
+}
+```
+
+<hr />
+
+```js
+export default {
+  data() {
+    return {
+      msg: 'Error', // [!code error]
+      msg: 'Warning', // [!code warning]
     }
   },
 }

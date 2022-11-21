@@ -44,3 +44,37 @@ console.log('Hello, VitePress!')
 ```
 
 :::
+
+```js
+export default {
+  name: 'MyComponent',
+  // ...
+}
+```
+
+```html
+<ul>
+  <li v-for="todo in todos" :key="todo.id">{{ todo.text }}</li>
+</ul>
+```
+
+```js{4}
+export default {
+  data () {
+    return {
+      msg: 'Highlighted!'
+    }
+  }
+}
+```
+
+```js
+export default {
+  data() {
+    return {
+      msg: 'Error', // [!code  error]
+      msg: 'Warning', // [!code  warning]
+    }
+  },
+}
+```

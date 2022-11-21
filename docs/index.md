@@ -1,3 +1,4 @@
-# Hello VitePress
-
-lorem "Hello
+---
+title: Blogging Like a Hacker
+lang: en-US
+---

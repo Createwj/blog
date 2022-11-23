@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 导航
-      link: /guide/
+      link: /web/demo
     - theme: alt
       text: 在 GitHub 上查看
       link: https://github.com/Createwj/blog

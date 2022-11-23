@@ -1,1 +1,1 @@
-### Click here to visit the [Home](https://createwj.github.io/blog/) !
+### Click here to visit the [Home](https://createwj.github.io/) !

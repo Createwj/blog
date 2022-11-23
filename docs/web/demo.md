@@ -1,5 +1,14 @@
 ---
-title: demo
+title: MarkDown
+titleTemplate: Vite & Vue powered static site generator
+description: VitePress
+head:
+  - - meta
+    - name: description
+      content: hello
+  - - meta
+    - name: keywords
+      content: super duper SEO
 ---
 
 ### Title <Badge type="info" text="default" />

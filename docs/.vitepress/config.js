@@ -3,7 +3,6 @@ import sidebar from './side.js'
 export default {
   base: '/blog/',
   title: 'Blog',
-  outDir: '/blog/',
   description: 'A VitePress site',
   lastUpdated: true,
   themeConfig: {

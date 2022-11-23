@@ -34,7 +34,7 @@ export default {
     algolia: {
       appId: 'your id',
       apiKey: 'your API key',
-      indexName: 'zhoulujun.co',
+      indexName: 'xincheng',
     },
   },
 }

@@ -1,7 +1,7 @@
 import sidebar from './side.js'
 
 export default {
-  base: '/',
+  base: '/blog/',
   title: 'Blog',
   description: 'A VitePress site',
   lastUpdated: true,

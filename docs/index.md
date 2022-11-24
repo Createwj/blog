@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Blog
   text: 基于 vitepress & vue 构建
-  tagline: 记录博主日常学习生活的博客
+  tagline: 记录博主日常学习生活
   image:
     src: /logo.png
     alt: Blog
@@ -33,7 +33,8 @@ features:
 
 :root {
   --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe, #41d1ff);
-}
+  /* --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe, #41d1ff); */
 
+  --vp-home-hero-name-background: linear-gradient(120deg, #2af598 0%, #009efd 100%);
+}
 </style>
